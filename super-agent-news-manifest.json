@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnZNM2dDXzRibUR1d0RUNFV3Ujdyc0FEZW9EOThxcG5pR0lKQkVXV25NWXVuRnEzX3RxY0xoeENOSVE2cTl3V3VtNVdqbDBabzg0eUZZWmhnbDQyUTJ2aHFqcGRYeFcwbng4LTJQc0RaaEc4YlJFaDVwZjlSaV96SEtVME1KSzcxeXNKZldFTQ?oc=5)"
+  ],
+  "design_plan": "rng=42; AIDA: attention(hero video + 2-3 line H1), interest(ecom workflows), desire(compare cards + cache), action(dual CTAs); hero_math:max_width=1120px 2.4 lines; bento_density:grid-auto-flow:dense verified; labels sweep: competitors mentioned; contrast:black/white pills AA+",
+  "generated_at": "2026-06-29T23:04:31.457112+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live in dashboards, inboxes, and back\u2011office tools. The page ties current evidence around computer\u2011use AI agents to real ecommerce workflows \u2014 order monitoring, support triage, refunds, reconciliations \u2014 and positions Super as the sharper alternative for repeated computer\u2011use work thanks to its reusable computer\u2011use cache."
+}
